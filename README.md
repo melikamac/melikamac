@@ -1,5 +1,7 @@
 ### Hi there 👋
+
 🔭 I’m currently working on Toscano Agriculturaly Machine
+
 🌱 I’m currently learning C# 
 
 <!--
