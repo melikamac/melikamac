@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Action Management System & Enterprise Resource Planning**
 
-- 🌱 I’m currently learning **Angular, .net framework, c#**
+- 🌱 I’m currently learning **Angular, .net core**
 
 - 💬 Ask me about **asp.net**
 
