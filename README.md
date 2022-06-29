@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Melik Amaç</h1>
-<h3 align="center">A passionate full stack developer and ERP specialist from Turkey</h3>
+<h3 align="center">A passionate full stack developer and ERP-MRP specialist from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melikamac&label=Profile%20views&color=0e75b6&style=flat" alt="melikamac" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Angular, .net core**
 
-- 💬 Ask me about **asp.net**
+- 💬 Ask me about **Enterprise Resource Planning & Materials Requirement Planning**
 
 - 📫 How to reach me **melikamac@gmail.com**
 
