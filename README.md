@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Angular, .net core**
 
-- 💬 Ask me about **Enterprise Resource Planning & Materials Requirement Planning**
+- 💬 Ask me about **Enterprise Resource Planning System Management & Development**
 
 - 📫 How to reach me **melikamac@gmail.com**
 
